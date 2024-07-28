@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srishti Gupta</h1>
 <h3 align="center">A passionate Web and App developer from India</h3>
 
-- 🔭 I’m currently working on **Quiz-App**
+- 🔭 I’m currently working on **SnapSpot**
 
 - 🌱 I’m currently learning **React Native, JavaScript, Blockchain**
 
-- 👯 I’m looking to collaborate on **Quiz-App**
+- 👯 I’m looking to collaborate on **Shop-listify**
 
 - 💬 Ask me about **dart, flutter, javascript, python, data structures, algorithims.**
 
